@@ -1,6 +1,6 @@
 # project : Future Ready Talent Project By Nanda Kumar
 
-Here i create a fashion store web apps named dress-up that helps the customer to find good products in cheap rates and genuine product.
+Here i create a fashion store web apps named fashion mantra that helps the customer to find good products in cheap rates and genuine product.
 
 ![Screenshot (39)](https://user-images.githubusercontent.com/63538807/187027580-6034f6cd-1ca6-40f3-a386-ad1023642ce6.png)
 ![Screenshot (40)](https://user-images.githubusercontent.com/63538807/187027591-55eaea60-cf35-4975-8f8e-a5d5bc093ef8.png)
