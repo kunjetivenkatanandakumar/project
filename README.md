@@ -1,4 +1,4 @@
-# project : Future Ready Talent By Nanda Kumar
+# project : Future Ready Talent Project By Nanda Kumar
 
 Here i create a fashion store web apps named dress-up that helps the customer to find good products in cheap rates and genuine product.
 
