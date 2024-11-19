@@ -1,4 +1,4 @@
-# project : Future Ready Talent Project By Nanda Kumar
+# project : Future Ready Talent Project By Kunjeti Venkata Nanda Kumar
 
 Here i created a fashion store web apps named fashion mantra that helps the customer to find good products in cheap rates and genuine product.
 
